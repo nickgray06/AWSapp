@@ -1,0 +1,14 @@
+{
+  "resourceName": "nicksnotes",
+  "policyUUID": "2ad92862",
+  "bucketName": "awsapp5e85e01bc1f541428210b89b69ef4d76",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
